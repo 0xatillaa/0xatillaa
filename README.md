@@ -4,7 +4,7 @@ I am a Blockchain and Full Stack developer from Bucharest, Romania who's passion
 
 I love architecting systems from scratch and creating witty solutions, so I require a high degree of autonomy in projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewverify&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatillaa&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ### I’m currently working on:
 Solana and Ethereum dapps. Designing smart contracts, implementing scalable back-ends and pairing that with a dynamic NextJS front-end that can serve high loads using Websockets. 
 ### I’m currently learning 
